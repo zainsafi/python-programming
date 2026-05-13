@@ -131,9 +131,9 @@ The main goals of this repository are:
 ## How to Use This Repository
 
 1. Clone the repository:
-   ```bash
-   git clone https://https://github.com/zainsafi/python-programming.git
-   ```
+  ```bash
+  git clone https://https://github.com/zainsafi/python-programming.git
+  ```
 2. Navigate into the project folder:
   ```bash
   cd python-learning-journey
