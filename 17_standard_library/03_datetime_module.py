@@ -22,10 +22,10 @@ custom_time = datetime.time(14, 30, 45)
 print("Custom time ->", custom_time)
 
 
-# formatting date and time (important for exams)
+# formatting date and time
 # strftime() converts datetime into readable format
 formatted = current.strftime("%d-%m-%Y %H:%M:%S")
-print("Formatted date-time ->", formatted)
+print("\nFormatted date-time ->", formatted)
 print(current.strftime("%H:%M:%S")) # formated time only
 print(current.strftime("%d:%m:%y")) # formated date only
 

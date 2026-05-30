@@ -11,13 +11,12 @@ numbers = [10, 20, 30, 40, 50, 50]
 numbers.remove(50)
 print(numbers)  # [10, 20, 30, 40, 50]
 
-
 # pop() => remove by index (default last)
 numbers = [1, 2, 3, 4, 5]
 numbers.pop() # removes last element
-print(numbers) 
+print(numbers) # [1, 2, 3, 4]
 numbers.pop(1) # remove the element at first index
-print(numbers) # [1, 3, 4, 5]
+print(numbers) # [1, 3, 4,]
 
 # clear() => remove all elements from the list
 numbers = [1, 2, 3, 4, 5]
